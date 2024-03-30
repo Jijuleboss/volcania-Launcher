@@ -1,11 +1,11 @@
 {
     "name": "Volcania-Launcher",
     "preductname": "Volcania Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour les serveurs de Svolcania",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, volcania, Inc.",
+        "name": "luuxis , volcania , Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },

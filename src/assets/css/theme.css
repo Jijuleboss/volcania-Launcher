@@ -1,12 +1,12 @@
 .global {
-    --element-color: #00bd7a;
+    --element-color: #bd1c00;
     --transition: all 0.5s cubic-bezier(1, 0.46, 0, 1.29);
     --dark-color: #292929;
     --light-color: rgb(245, 245, 245);
 }
 
 .dark {
-    --color: #F5F5F5;
+    --color: #ff1919;
     --background: #292929;
     --background-element: #424242;
     --background-transparent: #2c2c2ccc;
@@ -15,7 +15,7 @@
 }
 
 .light {
-    --color: #151515;
+    --color: #fd1e1e;
     --background: rgb(245, 245, 245);
     --background-element: #c2c2c2;
     --background-transparent: rgba(204, 204, 204, 0.8);
