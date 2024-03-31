@@ -1,7 +1,7 @@
 {
     "name": "Volcania-Launcher",
     "preductname": "Volcania Launcher",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Launcher Mincraft pour les serveurs de Svolcania",
     "main": "src/app.js",
     "author": {

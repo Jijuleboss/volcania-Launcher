@@ -29,9 +29,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Volcania est un serveur polivalent": "Volcania" },
+            { "message": "Volcania est un serveur polivalent", "author": "Volcania" },
             { "message": "Volcania.fr", "author": "Volcania" },
-            { "message": "LAuncher dev par jiju", "author": "Volcania" }
+            { "message": "Launcher dev par jiju", "author": "Volcania" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
