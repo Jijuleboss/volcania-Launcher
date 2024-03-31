@@ -143,7 +143,7 @@ class Launcher {
                     console.log(`Account Type: ${account.meta.type} | Username: ${account.name}`);
                     popupRefresh.openPopup({
                         title: 'Connexion',
-                        content: `Connection en cour : ${account.meta.type} | Username: ${account.name}`,
+                        content: `Chargement en cors de votre compte : ${account.meta.type} | Compte : ${account.name}`,
                         color: 'var(--color)',
                         background: false
                     });
