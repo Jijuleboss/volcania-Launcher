@@ -1,7 +1,7 @@
 {
     "name": "Volcania-Launcher",
     "preductname": "Volcania Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour les serveurs de Svolcania",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=false --build=platform",
-        "icon": "node build.js --icon=https://th.bing.com/th/id/OIG2.CB2Z4.zpxyh2X77gu9lv?w=1024&h=1024&rs=1&pid=ImgDetMain"
+        "icon": "node build.js --icon=https://i.postimg.cc/VkFd8FnZ/OIG1-R4-JWR7-CH9w-Bo-removebg-preview.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
